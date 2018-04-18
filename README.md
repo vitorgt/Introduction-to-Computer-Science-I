@@ -1,5 +1,5 @@
-# SCC0221
-Introduction to Computer Science I
+# Introduction to Computer Science I
+SCC0221
 
 Institute of Mathematical and Computer Sciences
 
