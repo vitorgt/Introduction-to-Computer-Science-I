@@ -1,5 +1,5 @@
 # Introduction to Computer Science I
-SCC0221
+[SCC0221](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SCC0221)
 
 Institute of Mathematical and Computer Sciences
 
